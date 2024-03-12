@@ -14,12 +14,12 @@ Utilisez la commande git clone suivie de l'URL du dépôt Git. Par exemple :
 
 bash
 Copy code
-git clone https://github.com/utilisateur/nom_du_depot.git
+git clone https://github.com/KevinKalt0/projet_Nest.git
 Cela va cloner le projet Git dans le répertoire actuel.
 
 Une fois le projet cloné, vous pouvez accéder au répertoire du projet en utilisant la commande cd :
 
 bash
 Copy code
-cd projet_Nest
+cd chemin/vers/le/répertoire
 Maintenant, vous êtes dans le répertoire du projet sur votre terminal (cmd) et vous pouvez commencer à travailler sur le projet.
